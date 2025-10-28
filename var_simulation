@@ -6,7 +6,7 @@ from scipy.stats import norm, binomtest
 import datetime as dt
 
 """
-Project 1: Portfolio Value at Risk (VaR) Simulation and Validation
+ Portfolio Value at Risk (VaR) Simulation and Validation
 
 This script implements a risk measurement system (VaR) for
 a portfolio of equity securities, using two methodologies:
